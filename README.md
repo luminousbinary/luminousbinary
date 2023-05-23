@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 (☞ﾟヮﾟ)☞ Luninous Boolean  ^_____^
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminousbinary&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 <div>
