@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 
 </details>
 
+---
+>If you dont try, you won't know (☞ﾟヮﾟ)☞ 
+— Luninous Boolean  ^_____^
+
