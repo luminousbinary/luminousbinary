@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, Him, Hers because I'm always hers,
 - ⚡ Fun fact: I love pets, especialy if they fly
 
+
+| s/n | Favourite language |
+|-----:|---------------|
+|     1|JavaScript  |
+|     2|Python  |
+|     3|C#  |
+|     4|PHP   |
