@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love pets, especialy if they fly
 
 
+<details>
+<summary>My top programming languages</summary>
+
 | s/n | Favourite language |
 |-----:|---------------|
 |     1|JavaScript  |
 |     2|Python  |
 |     3|C#  |
 |     4|PHP   |
+
+</details>
+
