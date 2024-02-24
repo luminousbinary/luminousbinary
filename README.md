@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on complex stuffs
-- 🌱 I’m currently learning Nestjs, Python, C# and PHP
-- 👯 I’m looking to collaborate on any project tackling real world problem
-- 🤔 I’m looking for help with collaboration 
+- 🔭 I’m currently working frontend and backend.
+- 🌱 I’m currently working with Nestjs, Python.
+- 👯 I’m looking to collaborate on any project tackling real world problem (ideally in finance, education or security)
+- 🤔 I’m looking for someone to collaborate with. 
 - 📫 How to reach me: coming soon
-- 😄 Pronouns: He, Him, Hers because I'm always hers,
-- ⚡ Fun fact: I love pets, especialy if they fly
+- 😄 Pronouns: He, Him, Her's because I'm always hers,
+- ⚡ Fun fact: I love pets, especialy the one that fly
 
 
 <details>
