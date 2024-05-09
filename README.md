@@ -100,7 +100,6 @@ I am a Full-stack developer and data analyst building a world of connected commu
 - 👯 I’m looking to collaborate on any project tackling real world problem (ideally in finance, education or security)
 - 🤔 I’m looking for someone to collaborate with.
 - 📫 How to reach me: coming soon
-- 😄 Pronouns: He, Him, Her's because I'm always hers,
 - ⚡ Fun fact: I love pets, especialy the one that fly
 
 <!-- <details>
