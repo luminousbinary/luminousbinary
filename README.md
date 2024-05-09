@@ -3,6 +3,20 @@
 
 I am a Full-stack developer and data analyst building a world of connected community. Passion for building bridges between the idea and the devalopment, shaping a vission where insights drive progress through the use of both coding tool and no-code tools. I am a strong beleiver of geting the work done and having a clear path of what an outcome is to look like. Constantly looking to connect with people acress the world and bring minds together.
 
+<!-- Social icons section -->
+<p align="center">
+<!--   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="https://www.linkedin.com/in/caleb-tolase-akinnuoye/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;  
+  <a href="https://twitter.com/luminousbinary"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
+<!--   <a href="https://dev.to/luminousbinary"><img width="32px" alt="Dev.to" title="luminousbinary Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
 
 <!--
 
@@ -11,6 +25,7 @@ I am a Full-stack developer and data analyst building a world of connected commu
 Here are some ideas to get you started:
 
 -->
+---
 
 - 🔭 I’m currently working frontend and backend.
 - 🌱 I’m currently working with Nestjs, Python.
