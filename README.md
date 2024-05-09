@@ -1,6 +1,11 @@
-### Hi there 👋
+#  LUMINOUS BOOLEAN  👋
+**`Full-stack Developer and aspiring Data Scientist.`**
+
+I am a Full-stack developer and data analyst building a world of connected community. Passion for building bridges between the idea and the devalopment, shaping a vission where insights drive progress through the use of both coding tool and no-code tools. I am a strong beleiver of geting the work done and having a clear path of what an outcome is to look like. Constantly looking to connect with people acress the world and bring minds together.
+
 
 <!--
+
 **luminousbinary/luminousbinary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
