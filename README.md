@@ -81,11 +81,11 @@ I am a Full-stack developer and data analyst building a world of connected commu
 ## </details> -->
 
 - 🔭 I’m currently working frontend and backend.
-- 🌱 I’m currently working with Nestjs, Python.
+- 🌱 I’m currently working with React.js, Next.js, Nestjs, Django, Python.
 - 👯 I’m looking to collaborate on any project tackling real world problem (ideally in finance, education or security)
 - 🤔 I’m looking for someone to collaborate with.
-- 📫 How to reach me: coming soon
-- ⚡ Fun fact: I love pets, especialy the one that fly
+- 📫 How to reach me: boolwrld@outlook.com
+- ⚡ Fun fact: I love pets, especialy the ones that fly
 
 <!-- <details>
 <summary>My top programming languages</summary>
